@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 
-static void Main() { }
+
 namespace TrilhaNetFundamentosDesafio.ParkingLot
 {
     public class ParkingLot

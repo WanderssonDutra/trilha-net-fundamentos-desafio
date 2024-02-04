@@ -1,0 +1,15 @@
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\bin\Debug\net8.0\Program.exe
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\bin\Debug\net8.0\Program.deps.json
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\bin\Debug\net8.0\Program.dll
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\bin\Debug\net8.0\Program.pdb
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.sourcelink.json
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.dll
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\refint\Program.dll
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.pdb
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\VsCodeProjects\trilha-net-fundamentos-desafio\obj\Debug\net8.0\ref\Program.dll
